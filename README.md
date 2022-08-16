@@ -15,7 +15,7 @@ loss = l(f1,f2)+l(f2,f1)
 ```python
 from MACL import MACLb
 
-#  is the temperature multiplication factor
+# beta is the temperature multiplication factor
 l = MACLb(tau_init=0.1, beta=1.0)
 loss = l(f1,f2)+l(f2,f1)
 ```
