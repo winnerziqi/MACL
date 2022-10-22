@@ -20,20 +20,4 @@ l = MACLb(tau_init=0.1, beta=1.0)
 loss = l(f1,f2)+l(f2,f1)
 ```
 
-## Citation
-
-```
-@misc{https://doi.org/10.48550/arxiv.2207.07874,
-  doi = {10.48550/ARXIV.2207.07874},
-  author = {Huang, Zizheng and Zhang, Chao and Li, Huaxiong and Wang, Bo and Chen, Chunlin},
-  title = {Model-Aware Contrastive Learning: Towards Escaping Uniformity-Tolerance Dilemma in Training},
-  year = {2022}
-}
-```
-
-## Contact
-Please feel free to contact us if you have any problems.
-
-Email: zizhenghuang@smail.nju.edu.cn
-
 
