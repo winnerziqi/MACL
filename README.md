@@ -1,5 +1,5 @@
 # Model-Aware-Contrastive-Loss
-This repository provides a PyTorch version implementation of MACL loss proposed in [***Model-Aware Contrastive Learning: Towards Escaping Uniformity-Tolerance Dilemma in Training***](https://arxiv.org/abs/2207.07874)
+This repository provides a PyTorch version implementation of MACL loss proposed in ***Model-Aware Contrastive Learning: Towards Escaping Uniformity-Tolerance Dilemma in Training***
 
 ## Usage
 
