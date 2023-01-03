@@ -7,7 +7,6 @@
 - [ ] Pre-training code of MACL.
 - [ ] Pre-trained models.
 
-Top1 linear evaluation accuracies on ImageNet1K:
 ## Model Performance
 Top1 linear evaluation accuracies on ImageNet1K:
 
