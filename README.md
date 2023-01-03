@@ -2,6 +2,11 @@
 
 ![](figure/fig1.jpeg)
 
+## Todo list:
+- [x] Release core code of MACL.
+- [ ] Pre-training code of MACL.
+- [ ] Pre-trained models.
+
 Top1 linear evaluation accuracies on ImageNet1K:
 ## Model Performance
 Top1 linear evaluation accuracies on ImageNet1K:
@@ -26,10 +31,6 @@ Dataset | NCI1  | PROTEINS | MUTAG| RDT-B | DD | IMDB-B
 GraphCL | 77.87 | 74.39 | 86.80| 89.53| 78.62| 71.14
 w/ MACL | 78.41| 74.47| 89.04| 90.59| 78.80|71.42
 
-## Todo list:
-- [x] Release core code of MACL.
-- [ ] Pre-training code of MACL.
-- [ ] Pre-trained models.
 
 
 ## Acknowledgement
