@@ -33,4 +33,4 @@ w/ MACL | **78.41**| **74.47**| **89.04**| **90.59**| **78.80**|**71.42**
 
 
 ## Acknowledgement
-Many thanks to the nice work of [MMselfsup](https://github.com/open-mmlab/mmselfsup). Our codes and configs follow [MOCO](https://github.com/facebookresearch/moco) and [SimCLR](https://github.com/google-research/simclr).
+Many thanks to the nice work of [MMSelfsup](https://github.com/open-mmlab/mmselfsup). Our codes and configs follow [MOCO](https://github.com/facebookresearch/moco) and [SimCLR](https://github.com/google-research/simclr).
